@@ -1,6 +1,8 @@
 # Deep Learning Pokedex Application
 
 * A pokedex app created with deep learning, capable to recognize a series of Pokemons from a list of existing Pokemons.
+* This app works on a Raspberry Pi.
+* The recognition part of the code is done on a separate thread, using an Intel Movidius NCS.
 
 ## Click to play youtube video:
 
