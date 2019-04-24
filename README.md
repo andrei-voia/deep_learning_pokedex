@@ -1,6 +1,6 @@
 # Deep Learning Pokedex Application
 
-* A pokedex app created with deep learning, capable to recognize a series of pokemons from a list of existing pokemons.
+* A pokedex app created with deep learning, capable to recognize a series of Pokemons from a list of existing Pokemons.
 
 ## Click to play youtube video:
 
