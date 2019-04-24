@@ -27,6 +27,7 @@ This is an example of how a Pokemon will be described
 
 The Pokedex application will give you the following informations about the Pokemon:
 
+* The name of the Pokemon
 * A brief description about the Pokemon, how it behaves and what it likes
 * A complete evolutionary chart of that Pokemon
 * A list of skills that the Pokemon is able to learn and use in combat
