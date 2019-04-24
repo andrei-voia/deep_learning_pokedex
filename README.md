@@ -16,13 +16,23 @@ This application can find what pokemon is in a picture from a variety of inputs,
 * Image - you can give the path to a local image from your PC / Raspberry Pi to the Pokedex and it will tell you what pokemon is in that picture.
 * Video - you can give the path to a local video, and whenever you want to analyze a frame, you can press the button and the Pokedex will tell you what pokemon is in that frame.
 
-## Pokemon description:
+## Pokemon description
 
 This is an example of how a Pokemon will be described
+
 ![alt text](https://github.com/andrei-voia/deep_learning_pokedex/blob/master/screenshots/7.png "pokemon")
 
 
-This is Bullbasaur and i like it a lot
+## Description
+
+The Pokedex application will give you the following informations about the Pokemon:
+
+* A brief description about the Pokemon, how it behaves and what it likes
+* A complete evolutionary chart of that Pokemon
+* A list of skills that the Pokemon is able to learn and use in combat
+
 ![alt text](https://github.com/andrei-voia/deep_learning_pokedex/blob/master/screenshots/1.png "pokemon")
+
+
 
 
