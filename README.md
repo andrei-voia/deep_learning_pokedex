@@ -21,6 +21,8 @@ This application can find what pokemon is in a picture from a variety of inputs,
 This is an example of how a Pokemon will be described
 ![alt text](https://github.com/andrei-voia/deep_learning_pokedex/blob/master/screenshots/7.png "pokemon")
 
+
+This is Bullbasaur and i like it a lot
 ![alt text](https://github.com/andrei-voia/deep_learning_pokedex/blob/master/screenshots/1.png "pokemon")
 
 
